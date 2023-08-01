@@ -8,79 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4b916a678a6a070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "476c2f9a476a66e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "芝士雪豹/通讯协议/IIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c199c4c651a8e1c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "芝士雪豹/通讯协议/IIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64554737fa08f90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "芝士雪豹/通讯协议/CAN总线.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46c243815d837bc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FREErtos/未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9162859da178c3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -208,18 +139,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9162859da178c3bd",
+  "active": "46c243815d837bc8",
   "lastOpenFiles": [
-    "SourceTree 打不开解决方案.md",
-    "附件/Pasted image 20230801123131.png",
     "附件/Pasted image 20230801122933.png",
+    "附件/Pasted image 20230801123131.png",
     "附件/Pasted image 20230801122728.png",
-    "FREErtos/未命名.md",
-    "未命名",
-    "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md",
-    "FREErtos/附件",
-    "FREErtos",
-    "芝士雪豹/通讯协议/CAN总线.md",
+    "附件",
     "芝士雪豹/通讯协议/附件/Pasted image 20230728102313.png",
     "芝士雪豹/通讯协议/附件/Pasted image 20230728102018.png",
     "芝士雪豹/通讯协议/附件/Pasted image 20230728101616.png",
@@ -227,14 +152,22 @@
     "芝士雪豹/通讯协议/附件/Pasted image 20230728101118.png",
     "芝士雪豹/通讯协议/附件/Pasted image 20230728100930.png",
     "芝士雪豹/通讯协议/附件/Pasted image 20230728100700.png",
-    "芝士雪豹/通讯协议/IIC.md",
-    "芝士雪豹/通讯协议/SPI.md",
+    "芝士雪豹/通讯协议/附件/Pasted image 20230728093414.png",
     "芝士雪豹/通讯协议/附件",
-    "附件",
+    "芝士雪豹/通讯协议/SPI.md",
+    "芝士雪豹/通讯协议/IIC.md",
+    "芝士雪豹/通讯协议/CAN总线.md",
     "芝士雪豹/通讯协议",
     "芝士雪豹",
     "基于STM32Cube的开发/附件",
+    "基于STM32Cube的开发/1. STM32CubeMX 安装 配置 点灯.md",
     "基于STM32Cube的开发",
+    "SourceTree 打不开解决方案.md",
+    "FREErtos/未命名.md",
+    "README.md",
+    "未命名",
+    "FREErtos/附件",
+    "FREErtos",
     "Untitled"
   ]
 }
